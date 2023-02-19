@@ -1,0 +1,9 @@
+parameters:
+    mapping.product:
+        '[Product Code]': '[productCode]'
+        '[Product Name]': '[productName]'
+        '[Product Description]': '[productDesc]'
+        '[Stock]': '[stock]'
+        '[Cost in GBP]': '[cost]'
+        '[Discontinued]': '[dateDiscontinued]'
+       
